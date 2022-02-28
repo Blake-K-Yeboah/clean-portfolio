@@ -83,6 +83,16 @@ const projectData = [
         sourceCode: "https://github.com/Blake-K-Yeboah/pic-by-adam",
         category: "Freelance",
     },
+    {
+        title: "Code Network",
+        description:
+            "An open-source web app made for a hackathon hosted by Hashnode. Built with React, MongoDB and Netlify Functions (similar to AWS Lambda Functions). It was styled with the Tailwind CSS library as well as framer motion for animations.",
+        skills: ["React", "Netlify Functions", "MongoDB", "Tailwind CSS"],
+        image: "code_network.jpg",
+        liveProject: "https://codenetwork.netlify.app/",
+        sourceCode: "https://github.com/Blake-K-Yeboah/code-network",
+        category: "Open Source",
+    },
 ];
 
 // Project Modal Functionality
