@@ -778,6 +778,12 @@ header .about-me-btn:hover .text {
   }
 }
 
+@media (hover: none) {
+  header .about-me-btn {
+    bottom: 50px;
+  }
+}
+
 #about {
   display: -ms-grid;
   display: grid;
