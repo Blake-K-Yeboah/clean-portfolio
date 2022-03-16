@@ -167,8 +167,8 @@ body {
             transform: scale(1);
   }
   50% {
-    -webkit-transform: scale(1.05);
-            transform: scale(1.05);
+    -webkit-transform: scale(1.025);
+            transform: scale(1.025);
   }
   100% {
     -webkit-transform: scale(1);
@@ -182,8 +182,8 @@ body {
             transform: scale(1);
   }
   50% {
-    -webkit-transform: scale(1.05);
-            transform: scale(1.05);
+    -webkit-transform: scale(1.025);
+            transform: scale(1.025);
   }
   100% {
     -webkit-transform: scale(1);
@@ -452,7 +452,7 @@ header .background {
 }
 
 header .background .image {
-  background-image: url("../img/test-header-img.jpg");
+  background-image: url("../img/header-img.jpg");
   position: absolute;
   right: 0;
   top: 0;
