@@ -25,6 +25,10 @@ gsap.from(".about-anim", {
     scrollTrigger: ".about-img",
 });
 
+if (navigator.userAgent.includes("Instagram")) {
+alert('INSTAGRAM BROWSER');    
+}
+
 // Navbar transition
 const navbar = document.querySelector(".navbar");
 const mobileNav = document.querySelector(".mobile-nav");
